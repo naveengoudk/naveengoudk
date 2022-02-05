@@ -5,3 +5,82 @@
 width: 100%;
 height: 100%;
 }
+.container-1{
+    margin-left: 60px;
+    height: 1027px;
+    width: 1412px;
+    border: 2px solid;
+}
+.header{
+    width: 1400px;
+    height: 150px;
+    margin: 3px 45px 3px 3px;
+    border: 2px solid;
+    background-color: aqua
+    
+}
+.image-1{
+    margin-top: 50px;
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    
+}
+.section-1{
+    margin:3px 45px 3px 3px;
+    height: 40px;
+    border: 2px solid;
+    text-align: center;
+    width: 1400px;
+    background-color: aquamarine;
+}
+
+.aside-2{
+    width: 130px;
+    height: 500px;
+    margin: 3px 3px 5px 3px;
+    text-align: left;
+    border: 2px solid;
+    float: right;
+    
+}
+.aside-section{
+    margin-bottom: 20px;
+    margin-right: 30px;
+    margin-left: 5px;
+}
+.aside-1{
+    width: 130px;
+    height: 500px;
+    margin: 3px 3px 3px 3px;
+    text-align: left;
+    border: 2px solid;
+    float: left;
+    
+}
+.foter{
+    margin:3px 3px 3px 3px;
+    border: 2px solid;
+    width: 1402px;
+    height: 300px;
+    vertical-align: 700px;
+}
+.section-2{
+    margin-right: 100px;
+}
+.img-section{
+    margin: 6px 3px 3px 140px;
+    height: 500px;
+    width: 1128px;
+    border: 2px solid;
+}
+.img-blocks{
+    margin: 10px 90px 10px 30px;
+    width: 230px;
+    height:230px ;
+}
+.img-wrapper{
+    border: 2px;
+    width: 1120;
+    margin-left: 50px;
+}
