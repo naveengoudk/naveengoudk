@@ -74,12 +74,12 @@ height: 100%;
     width: 1128px;
     border: 2px solid;
 }
-.img-blocks{
+.post-img{
     margin: 10px 90px 10px 30px;
     width: 230px;
     height:230px ;
 }
-.img-wrapper{
+#main-content-section{
     border: 2px;
     width: 1120;
     margin-left: 50px;
