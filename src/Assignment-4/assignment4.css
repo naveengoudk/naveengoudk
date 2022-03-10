@@ -5,3 +5,141 @@
 width: 100%;
 height: 100%;
 }
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+header{
+    padding: 0 25px;
+    width: 100%;
+    height: 7vh;
+    background: #92e0e5; 
+    color: white;
+    border-bottom:transparent teal;
+}
+header img{
+    width: 35px;
+    height: 35px;
+    background-color: #92e0e5;
+    padding: 10px;
+    border-radius: 50% ;
+
+}
+header nav{
+    float: right;
+    margin-right: 100px;
+
+}
+nav li{
+    display: inline-block;
+    margin-right: 35px;
+}
+#hero{
+    width: 100vw;
+    background: url('images/background.png') no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 50px 0;
+    margin-bottom: 50px;
+    
+
+}
+#hero h2{
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+#hero img{
+    margin: auto;
+    border-radius: 50%;
+    border-color: #92e0e5;
+    border: 5px solid #3F8DA7;
+    margin-bottom: 20px;
+}
+#hero a{
+    text-decoration: none;
+    background: white;
+    border: 5px solid #3F8DA7;
+    color: #3F8DA7;
+    padding: 10px 10px;
+    text-decoration: none;
+    
+}
+#hero a:hover {
+    padding: 5px 10px;
+    background: #3F8DA7;
+    color: white;
+}
+
+.content-wrapper{
+    width: 82vw;
+    margin: auto;
+    text-align: center;
+}
+.three-col {
+    width: 25vw;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    margin: 0 1vw;
+}
+.three-col img{
+    border-radius: 50%;
+    border: 3px solid #3F8DA7;
+    height: 200px;
+    width: 200px;
+    margin: 25px 0;
+  
+}
+.three-col a{
+    text-decoration: none;
+    background: white;
+    border: 3px solid #3F8DA7;
+    color: #3F8DA7;
+    padding: 5px 20px;
+    text-decoration: none;
+}
+.three-col a:hover {
+    padding: 5px 10px;
+    background: #3F8DA7;
+    color: white;
+}
+.three-col p{
+
+    margin-bottom: 40px;
+    width: 25vw;
+    margin-left: 35px;
+
+}
+footer{
+    width: 100vw;
+    height: 15vh;
+    text-align: center;
+    background: #3F8DA7;
+    color: white;
+    margin-top: 40px;
+    padding: 20px 0;
+    
+}
+footer h4{
+    margin: 0px;
+}
+footer ul{
+    text-align: center;
+    list-style-type: none;
+    margin-right: 40px;
+}
+footer ul li{
+    margin: auto;
+    display: inline-block;
+    margin:5px 10px;
+}
+footer ul li img{
+    width: 35px;
+    height: 35px;
+    border-radius:10px ;
+
+}
+footer a{
+    color: white;
+}
